@@ -20,7 +20,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     mikey.addEventListener('mouseover', function (e) {
         e.target.style.backgroundColor = "purple";
-        // spinCity();
     });
 
     mikey.addEventListener('mouseleave', function (e) {
